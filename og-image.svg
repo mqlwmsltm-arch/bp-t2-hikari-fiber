@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0f172a"/>
-      <stop offset="100%" stop-color="#334155"/>
+      <stop offset="0%" stop-color="#0d2137"/>
+      <stop offset="100%" stop-color="#0a1628"/>
     </linearGradient>
     <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#6366f1"/>
-      <stop offset="100%" stop-color="#334155"/>
+      <stop offset="0%" stop-color="#00bcd4"/>
+      <stop offset="100%" stop-color="#0a1628"/>
     </linearGradient>
   </defs>
 
@@ -14,27 +14,27 @@
   <rect width="1200" height="630" fill="url(#bg)"/>
 
   <!-- Geometric pattern -->
-  <circle cx="896" cy="705" r="42" fill="#334155" opacity="0.11"/>
-    <circle cx="120" cy="100" r="67" fill="#334155" opacity="0.06"/>
-    <circle cx="114" cy="262" r="33" fill="#334155" opacity="0.16"/>
-    <circle cx="211" cy="660" r="43" fill="#334155" opacity="0.08"/>
-    <circle cx="782" cy="25" r="47" fill="#334155" opacity="0.08"/>
-    <circle cx="1115" cy="46" r="58" fill="#334155" opacity="0.13"/>
-    <rect x="996" y="491" width="32" height="48" rx="8" fill="#0f172a" opacity="0.08" transform="rotate(10, 918, -28)"/>
-    <rect x="46" y="527" width="56" height="87" rx="8" fill="#0f172a" opacity="0.04" transform="rotate(39, 372, 293)"/>
-    <rect x="1244" y="714" width="85" height="61" rx="8" fill="#0f172a" opacity="0.15" transform="rotate(22, 53, 651)"/>
-    <rect x="216" y="-89" width="22" height="34" rx="8" fill="#0f172a" opacity="0.10" transform="rotate(9, 1232, 394)"/>
-    <rect x="-75" y="307" width="32" height="94" rx="8" fill="#0f172a" opacity="0.06" transform="rotate(44, 824, 91)"/>
-    <rect x="618" y="-77" width="86" height="43" rx="8" fill="#0f172a" opacity="0.13" transform="rotate(14, 136, 690)"/>
-    <rect x="530" y="408" width="74" height="46" rx="8" fill="#0f172a" opacity="0.09" transform="rotate(39, 935, 448)"/>
-    <rect x="819" y="709" width="58" height="46" rx="8" fill="#0f172a" opacity="0.10" transform="rotate(2, 688, -9)"/>
-    <polygon points="185,565 207,609 163,609" fill="#334155" opacity="0.04"/>
-    <polygon points="773,190 826,296 720,296" fill="#334155" opacity="0.12"/>
-    <polygon points="14,-94 67,12 -39,12" fill="#334155" opacity="0.04"/>
-    <polygon points="909,663 960,765 858,765" fill="#334155" opacity="0.06"/>
+  <circle cx="232" cy="360" r="29" fill="#0a1628" opacity="0.09"/>
+    <circle cx="176" cy="367" r="27" fill="#0a1628" opacity="0.12"/>
+    <circle cx="363" cy="473" r="62" fill="#0a1628" opacity="0.11"/>
+    <circle cx="1071" cy="565" r="36" fill="#0a1628" opacity="0.05"/>
+    <circle cx="1256" cy="55" r="85" fill="#0a1628" opacity="0.16"/>
+    <circle cx="599" cy="-51" r="25" fill="#0a1628" opacity="0.08"/>
+    <rect x="21" y="230" width="33" height="97" rx="8" fill="#0d2137" opacity="0.06" transform="rotate(30, 1099, 104)"/>
+    <rect x="-25" y="666" width="51" height="56" rx="8" fill="#0d2137" opacity="0.05" transform="rotate(41, 1007, 212)"/>
+    <rect x="660" y="102" width="89" height="39" rx="8" fill="#0d2137" opacity="0.07" transform="rotate(3, 52, 20)"/>
+    <rect x="802" y="216" width="99" height="34" rx="8" fill="#0d2137" opacity="0.10" transform="rotate(42, 268, 139)"/>
+    <rect x="246" y="199" width="46" height="37" rx="8" fill="#0d2137" opacity="0.05" transform="rotate(25, 204, 448)"/>
+    <rect x="1048" y="166" width="41" height="99" rx="8" fill="#0d2137" opacity="0.11" transform="rotate(29, 1250, 709)"/>
+    <rect x="315" y="441" width="76" height="81" rx="8" fill="#0d2137" opacity="0.10" transform="rotate(29, 113, 364)"/>
+    <rect x="590" y="721" width="66" height="34" rx="8" fill="#0d2137" opacity="0.08" transform="rotate(10, 1086, 149)"/>
+    <polygon points="464,343 508,431 420,431" fill="#0a1628" opacity="0.05"/>
+    <polygon points="614,169 685,311 543,311" fill="#0a1628" opacity="0.09"/>
+    <polygon points="62,515 94,579 30,579" fill="#0a1628" opacity="0.06"/>
+    <polygon points="481,141 502,183 460,183" fill="#0a1628" opacity="0.09"/>
 
   <!-- Wave at bottom -->
-  <path d="M0,532 C360,581 840,483 1200,532 L1200,630 L0,630Z" fill="#334155" opacity="0.3"/>
+  <path d="M0,554 C360,592 840,516 1200,554 L1200,630 L0,630Z" fill="#0a1628" opacity="0.3"/>
 
   <!-- 중앙 텍스트 카드 -->
   <rect x="80" y="195" width="1040" height="260" rx="20" fill="rgba(0,0,0,0.35)" filter="url(#blur-bg)"/>
@@ -48,10 +48,10 @@
   </text>
 
   <!-- Accent line -->
-  <line x1="450" y1="355" x2="750" y2="355" stroke="#6366f1" stroke-width="3" stroke-linecap="round" opacity="0.8"/>
+  <line x1="450" y1="355" x2="750" y2="355" stroke="#00bcd4" stroke-width="3" stroke-linecap="round" opacity="0.8"/>
 
   <!-- 하단 CTA -->
-  <rect x="440" y="385" width="320" height="40" rx="20" fill="#6366f1" opacity="0.9"/>
+  <rect x="440" y="385" width="320" height="40" rx="20" fill="#00bcd4" opacity="0.9"/>
   <text x="600" y="411" text-anchor="middle" font-family="'Noto Sans JP','Noto Sans KR','Pretendard',sans-serif" font-size="16" font-weight="600" fill="#ffffff">
     ▼ 자세히 보기
   </text>
